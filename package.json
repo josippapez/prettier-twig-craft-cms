@@ -1,6 +1,6 @@
 {
     "name": "@rawwee/prettier-twig-craft-cms",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Craft CMS extension for prettier-plugin-twig-melody (Extended)",
     "main": "src",
     "repository": "https://github.com/josippapez/prettier-plugin-twig-melody",
