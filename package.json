@@ -1,17 +1,17 @@
 {
-    "name": "prettier-twig-craft-cms",
+    "name": "@rawwee/prettier-twig-craft-cms",
     "version": "0.1.0",
-    "description": "Craft CMS extension for prettier-plugin-twig-melody",
+    "description": "Craft CMS extension for prettier-plugin-twig-melody (Extended)",
     "main": "src",
-    "repository": "https://github.com/twbartel/prettier-twig-craft-cms",
-    "author": "Tom Bartel <thomas.bartel@trivago.com>",
+    "repository": "https://github.com/josippapez/prettier-plugin-twig-melody",
+    "author": "Josip Papez <papezjosip@gmail.com>",
     "license": "Apache 2.0",
     "scripts": {
         "test": "jest",
         "update-snapshots": "jest -u"
     },
     "dependencies": {
-        "prettier-plugin-twig-melody": "^0.3.5"
+        "@rawwee/prettier-plugin-twig-melody": "^1.0.2"
     },
     "devDependencies": {
         "jest": "^25.1.0"
