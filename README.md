@@ -1,17 +1,17 @@
-# prettier-twig-craft-cms
+# @rawwee/prettier-twig-craft-cms
 
-This is an extension to [prettier-plugin-twig-melody](https://github.com/trivago/prettier-plugin-twig-melody) which should ultimately cover the Twig tags added by [Craft CMS](https://craftcms.com/).
+This is an extension to [@rawwee/prettier-plugin-twig-melody](https://github.com/trivago/prettier-plugin-twig-melody) which should ultimately cover the Twig tags added by [Craft CMS](https://craftcms.com/).
 
 ## Installation
 
 ```bash
-yarn add prettier-twig-craft-cms --dev
+yarn add @rawwee/prettier-twig-craft-cms --dev
 ```
 
 or
 
 ```bash
-npm install prettier-twig-craft-cms --save-dev
+npm install @rawwee/prettier-twig-craft-cms --save-dev
 ```
 
 ## Usage
@@ -19,7 +19,7 @@ npm install prettier-twig-craft-cms --save-dev
 You have to add this line in your `.prettierrc` (or `prettierrc.json`) file:
 
 ```json
-"twigMelodyPlugins": ["node_modules/prettier-twig-craft-cms"]
+"twigMelodyPlugins": ["node_modules/@rawwee/prettier-twig-craft-cms"]
 ```
 
 This should be it.
